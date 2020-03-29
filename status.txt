@@ -1,1 +1,3 @@
 #I am using git on my manjaro (Mel-JS) so I got a manual for git command
+#Trying to get all the files created into git repos
+#Created a new html file
