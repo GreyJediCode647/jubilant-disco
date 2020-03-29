@@ -1,0 +1,1 @@
+#I am using git on my manjaro (Mel-JS) so I got a manual for git command
